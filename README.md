@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jogo de Pedra, Papel e Tesoura
 
 Este é um jogo de **Pedra, Papel e Tesoura** implementado em Python. O jogo permite que o jogador humano jogue contra uma máquina com diferentes níveis de dificuldade. O placar é salvo entre sessões de jogo.
@@ -55,3 +56,7 @@ Você quer jogar novamente? (sim/não): sim
 
 Diagrama UML:
 O diagrama UML do projeto pode ser visualizado [aqui](uml/uml_diagrama.png).
+=======
+# Projeto_OO
+jogo de pedra, papel e tesoura
+>>>>>>> f32db3d3376392b259fe2754df7918454b2d466f
